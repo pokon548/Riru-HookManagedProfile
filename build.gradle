@@ -9,7 +9,7 @@ idea.module {
 buildscript {
     repositories {
         google()
-        jcenter()
+	jcenter()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.5.3'
@@ -19,7 +19,7 @@ buildscript {
 allprojects {
     repositories {
         google()
-        jcenter()
+	jcenter()
     }
 }
 
