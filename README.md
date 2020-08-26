@@ -6,7 +6,7 @@ A module that hook isManagedProfile() in ``android.os.UserManagaer`` to throw re
 
 Tested **ONLY** on AOSP like ROM (like OxygenOS). Other ROMs may also work but not permitted. 
 
-** Always do backup before flashing this module, otherwise your phone may be trapped in bootloops. **
+**Always do backup before flashing this module, otherwise your phone may be trapped in bootloops.**
 
 ## Side effect
 
