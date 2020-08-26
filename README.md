@@ -2,6 +2,10 @@
 
 A module that hook isManagedProfile() in ``android.os.UserManagaer`` to throw restrictions in Android For Business (aka Android For Work) into void.
 
+## Why this
+
+When using [Island](https://play.google.com/store/apps/details?id=com.oasisfeng.island) (An multiboxing app based on AFB), I would like to make some programs access my notifications. Unfortunately, Android throw a toast notify me its impossible due to limits. And that's why this wheel is (maybe re)invented.
+
 ## Capability
 
 Tested **ONLY** on AOSP like ROM (like OxygenOS). Other ROMs may also work but not permitted. 
